@@ -1,0 +1,19 @@
+{
+  "name": "pc-react-template",
+  "version": "0.0.1",
+  "description": "pc-react-template",
+  "scripts": {
+    "dev": "node ./bulid.js --dev",
+    "build": "node ./build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "axuebin",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5"
+  }
+}
